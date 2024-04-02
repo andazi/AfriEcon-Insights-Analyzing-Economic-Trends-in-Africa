@@ -1,5 +1,5 @@
 numpy
 pandas
 plotly
-python==3.10
-streamlit==1.32.0
+python
+streamlit
